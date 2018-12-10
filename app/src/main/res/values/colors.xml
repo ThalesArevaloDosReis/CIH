@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AFCBFF</color>
+    <color name="colorPrimaryDark">#87C0FA</color> <!-- cor de cima do background -->
+    <color name="colorAccent">#FF4081</color>
+    <color name="CordoBotao">#2e81cf</color>
+
+
+</resources>
